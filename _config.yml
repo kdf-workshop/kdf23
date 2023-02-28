@@ -11,14 +11,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AAAI-22 KDF"
+title                    : "SIGIR '23 KDF"
 title_separator          : "-"
 subtitle                 : 
 name                     : "KDF" # &name is a YAML anchor which can be *referenced later
-description              : "Home for AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
-url                      : https://aaai-kdf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/kdf2022" # the subpath of your site, e.g. "/blog"
-repository               : "aaai-kdf/kdf2022"
+description              : "Home for the Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+url                      : https://kdf-workshop.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+repository               : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
