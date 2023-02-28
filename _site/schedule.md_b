@@ -1,0 +1,360 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.20.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services - AAAI-22 KDF</title>
+<meta name="description" content="Schedule">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="AAAI-22 KDF">
+<meta property="og:title" content="The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services">
+<meta property="og:url" content="http://localhost:4000/kdf2022/schedule">
+
+
+  <meta property="og:description" content="Schedule">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/kdf2022/assets/images/home_splash_nyc.png">
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/kdf2022/schedule">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "KDF",
+      "url": "http://localhost:4000/kdf2022/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/kdf2022/feed.xml" type="application/atom+xml" rel="alternate" title="AAAI-22 KDF Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/kdf2022/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--splash">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/kdf2022/"><img src="/kdf2022/assets/images/logo.png" alt=""></a>
+        
+        <a class="site-title" href="/kdf2022/">
+          AAAI-22 KDF
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/kdf2022/">Home</a>
+            </li><li class="masthead__menu-item">
+              <a href="/kdf2022/call_for_papers">Call for Papers</a>
+            </li><li class="masthead__menu-item">
+              <a href="/kdf2022/schedule">Schedule</a>
+            </li><li class="masthead__menu-item">
+              <a href="/kdf2022/organizers">Organization</a>
+            </li><li class="masthead__menu-item">
+              <a href="/kdf2022/program_committee">Program Committee</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: url('/kdf2022/assets/images/home_splash_nyc.png');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services
+
+        
+      </h1>
+      
+        <p class="page__lead"><br />Schedule<br />
+</p>
+      
+      
+
+
+      
+      
+    </div>
+  
+  
+</div>
+
+
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services">
+    <meta itemprop="description" content="Schedule">
+    
+    
+
+    <section class="page__content" itemprop="text">
+      <center>
+<table>
+<colgroup>
+    <col width="10%" />
+    <col width="70%" />
+    <col width="18%" />
+</colgroup>
+<thead>
+    <tr class="header">
+    <th>Time</th>
+    <th>Title</th>
+    <th>Speakers/Authors</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>8:50-9:00</td>
+        <td>Opening Remarks</td>
+        <td>Manuela Veloso / Sameena Shah <br>
+            (J.P. Morgan AI Research)</td>
+    </tr>
+    <tr>
+        <td>9:00-9:40</td>
+        <td markdown="span">*[Keynote: Machine Learning in Finance - Lessons Learned](/charles)*</td>
+        <td>Charles Elkan<br>(Goldman Sachs) </td>
+    </tr>   
+    <tr>
+        <td>9:40-9:50</td>
+        <td markdown="span">["The Cat is Out of the Bag" Explainable Risk Ranking with Financial Reports](/assets/pdfs/kdf2020_paper_11.pdf)</td>
+        <td>Ting-Wei Lin <br>(National Chengchi University) </td>
+    </tr>        
+    <tr>
+        <td>9:50-10:00</td>
+        <td markdown="span">[Economic News Impact Analysis Using Causal-Chain Search from Textural Data](/assets/pdfs/kdf2020_paper_13.pdf)</td>
+        <td>Kiyoshi Izumi<br> (University of Tokyo)</td>
+    </tr>        
+    <tr>
+        <td>10:00-10:10</td>
+        <td markdown="span">[Mining company sustainability reports to aid financial decision-making](/assets/pdfs/kdf2020_paper_24.pdf) </td>
+        <td>Tushar Goel <br> (Tata Consultancy)</td>
+    </tr>  
+    <tr>
+        <td>10:10-10:20</td>
+        <td markdown="span">[Leveraging Contextual Text Representations for Anonymizing German Financial Documents](/assets/pdfs/kdf2020_paper_7.pdf)</td>
+        <td>David Biesner <br> (Fraunhofer)</td>
+    </tr>  
+    <tr>
+        <td>10:20-10:30</td>
+        <td markdown="span">[A Robust Transferable Deep Learning Framework for Cross-sectional Investment Strategy](/assets/pdfs/kdf2020_paper_16.pdf)</td>
+        <td>Kei Nakagawa<br> (Nomura Asset Management)</td>
+    </tr>  
+    <tr bgcolor="#f7f1df">
+        <td>10:30-11:00</td>
+        <td>Coffee Break</td>
+        <td></td>
+    </tr>  
+    <tr>
+        <td>11:00-11:40</td>
+        <td markdown="span">*[Keynote: Learning from Incidental Supervision Signals](/dan)* </td>
+        <td>Dan Roth <br> (University of Pennsylvania)</td>
+    </tr>  
+    <tr>
+        <td>11:40-11:50</td>
+        <td markdown="span">[The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures](/assets/pdfs/kdf2020_paper_14.pdf)</td>
+        <td>Mohammad Ghassemi <br> (Ghamut Corporation)</td>
+    </tr>  
+    <tr>
+        <td>11:50-12:00</td>
+        <td markdown="span">[Classifying and Understanding Financial Transaction Data Using Graph Neural Network](/assets/pdfs/kdf2020_paper_21.pdf)</td>
+        <td>Xiaoxiao Li <br>(Yale University)</td>
+    </tr> 
+    <tr>
+        <td>12:00-12:10</td>
+        <td markdown="span">[Label Augmentation via Time-based Knowledge Distillation for Financial Anomaly Detection](/assets/pdfs/kdf2020_paper_31.pdf)</td>
+        <td>Hongda Shen <br> (University of Alabama in Huntsville)</td>
+    </tr>  
+    <tr bgcolor="#f7f1df">
+        <td>12:10-1:30</td>
+        <td>Lunch</td>
+        <td></td>
+    </tr>  
+    <tr>
+        <td>1:30-2:10</td>
+        <td markdown="span">*[Keynote: Advancing Textual Question Answering](/danqi)*</td>
+        <td>Danqi Chen <br> (Princeton University) </td>
+    </tr>  
+    <tr>
+        <td>2:10-2:50</td>
+        <td markdown="span">*[Keynote: Minimally Supervised Knowledge Graph Induction from Text](/alfio)*</td>
+        <td>Alfio Massimiliano Gliozzo <br> (IBM Research)</td>
+    </tr>  
+    <tr>
+        <td>2:50-3:30</td>
+        <td markdown="span">*[Panel](/panel)*</td>
+        <td markdown="span">Panelists</td>
+    </tr> 
+    <tr bgcolor="#f7f1df">
+        <td>3:30-4:00</td>
+        <td>Coffee Break</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>4:00-5:30</td>
+        <td>Poster Session</td>
+        <td></td>
+    </tr> 
+</tbody>
+</table>
+</center>
+    </section>
+  </article>
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+    
+
+    <li><a href="/kdf2022/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2023 KDF. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/kdf2022/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

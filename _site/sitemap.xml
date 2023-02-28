@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/kdf2022/accepted_papers</loc>
+</url>
+<url>
+<loc>http://localhost:4000/kdf2022/anju</loc>
+</url>
+<url>
+<loc>http://localhost:4000/kdf2022/call_for_papers</loc>
+</url>
+<url>
+<loc>http://localhost:4000/kdf2022/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/kdf2022/organizers</loc>
+</url>
+<url>
+<loc>http://localhost:4000/kdf2022/program_committee</loc>
+</url>
+<url>
+<loc>http://localhost:4000/kdf2022/schedule</loc>
+</url>
+<url>
+<loc>http://localhost:4000/kdf2022/william</loc>
+</url>
+<url>
+<loc>http://localhost:4000/kdf2022/xiaodan</loc>
+</url>
+</urlset>

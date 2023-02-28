@@ -1,0 +1,389 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.20.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services - AAAI-22 KDF</title>
+<meta name="description" content="Home for AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Services">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="AAAI-22 KDF">
+<meta property="og:title" content="The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services">
+<meta property="og:url" content="http://localhost:4000/kdf2022/danqi">
+
+
+  <meta property="og:description" content="Home for AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Services">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/kdf2022/assets/images/home_splash_nyc.png">
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/kdf2022/danqi">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "KDF",
+      "url": "http://localhost:4000/kdf2022/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/kdf2022/feed.xml" type="application/atom+xml" rel="alternate" title="AAAI-22 KDF Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/kdf2022/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/kdf2022/"><img src="/kdf2022/assets/images/logo.png" alt=""></a>
+        
+        <a class="site-title" href="/kdf2022/">
+          AAAI-22 KDF
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/kdf2022/">Home</a>
+            </li><li class="masthead__menu-item">
+              <a href="/kdf2022/call_for_papers">Call for Papers</a>
+            </li><li class="masthead__menu-item">
+              <a href="/kdf2022/schedule">Schedule</a>
+            </li><li class="masthead__menu-item">
+              <a href="/kdf2022/organizers">Organization</a>
+            </li><li class="masthead__menu-item">
+              <a href="/kdf2022/program_committee">Program Committee</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: url('/kdf2022/assets/images/home_splash_nyc.png');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services
+
+        
+      </h1>
+      
+      
+
+
+      
+      
+    </div>
+  
+  
+</div>
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name"></h3>
+    
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+    
+      
+        <img src="/kdf2022/assets/images/danqi.jpg"
+             alt="">
+      
+      <h3>Danchi Chen</h3>
+      <p>Assistant Professor - Department of Computer Science, Princeton University</p>
+
+      
+    
+    
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services">
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <h2>Bio</h2>
+
+Danqi Chen is an Assistant Professor of Computer Science at Princeton University and co-leads the Princeton NLP Group. Danqi’s research focuses on deep learning for natural language processing, with an emphasis on the intersection between text understanding and knowledge representation/reasoning and applications such as question answering and information extraction. Before joining Princeton, Danqi worked as a visiting scientist at Facebook AI Research in Seattle. She received her Ph.D. from Stanford University (2018) and B.E. from Tsinghua University (2012), both in Computer Science. In the past, she was a recipient of a Facebook Fellowship, and a Microsoft Research Women’s Fellowship and paper awards at ACL’16 and EMNLP’17.
+
+<h2>Advancing Textual Question Answering</h2>
+In this talk, I will discuss my recent work on advancing textual question answering: enabling machines to answer questions based on a passage of text, and more realistically, on a very large collection of documents (aka. “machine reading at scale”). In the first part, I will examine the importance of pre-trained language representations (e.g., BERT, RoBERTa) on the state-of-the-art QA systems. In particular, I will introduce a span-based pre-training method which is designed to better represent and predict spans of text and demonstrates superior performance on a wide range of QA tasks. Although these models already matched or surpassed human performance on some standard benchmarks, there still remains a huge gap when they are scaled up to the open-domain setting. In the second part, I will present two new directions: one is to replace traditional keyword-based retrieval component with fully dense embeddings for passage retrieval and the other is to answer questions based on a structured graph of text passages. Both approaches demonstrate promises for our future textual QA systems.
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+    
+
+    <li><a href="/kdf2022/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2023 KDF. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/kdf2022/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
