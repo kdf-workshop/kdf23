@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Call for Papers"
+    url: call_for_papers
+  #- title: "Accepted Papers"
+  #  url: accepted_papers
+  - title: "Schedule"
+    url: schedule
+  - title: "Organization"
+    url: organizers
+  - title: "Program Committee"
+    url: program_committee
+
+
+  # - title: "Sitemap"
+  #   url: /sitemap/
