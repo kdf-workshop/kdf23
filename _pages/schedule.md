@@ -1,5 +1,5 @@
 ---
-title: "The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+title: "The SIGIR-23 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
 permalink: /schedule
 header:
@@ -8,8 +8,9 @@ header:
 excerpt: "<br/>Schedule<br/>"
 ---
 
+TBD
 
-
+<!--
 <h2>Keynote Speakers</h2>
 [**William Wang**](/kdf2022/william), Associate Professor, University of California, Santa Barbara<br>
 [**Anju Kambadur**](/kdf2022/anju), Head of AI Engineering, Bloomberg LP<br>
@@ -117,4 +118,4 @@ excerpt: "<br/>Schedule<br/>"
 </table>
 </center>
 
-
+-->
