@@ -1,5 +1,5 @@
 ---
-title: "The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+title: "The SIGIR-23 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
 permalink: /organizers
 header:
