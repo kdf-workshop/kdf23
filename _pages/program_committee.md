@@ -1,5 +1,5 @@
 ---
-title: "The AAAI-22 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+title: "The SIGIR-23 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
 permalink: /program_committee
 header:
@@ -7,6 +7,9 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Program Committee<br/>"
 ---
+
+TBD
+<!--
 Akshat Gupta (JPMorgan Chase, USA)<br>
 Anh Truong (Capital One, USA)<br>
 Charese Smiley (JPMorgan Chase, USA)<br>
@@ -22,6 +25,7 @@ Tuka Alhanai (New York University, UAE)<br>
 Yanci Zhang (University of Pennsylvania, USA)<br>
 Vineeth Ravi (JPMorgan Chase, USA)<br>
 Zehra Sura (Bloomberg, USA)<br>
+-->
 
 <!-- 
 Anthony Liu (Kensho, USA)<br>
