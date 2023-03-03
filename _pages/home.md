@@ -30,19 +30,19 @@ Registration information to be updated soon.
     <tbody>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td><s>Monday</s></td>
-            <td><s>May 8, 2023</s></td>
+            <td>Monday</td>
+            <td>May 8, 2023</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
-            <td><s>Friday</s></td>
-            <td><s>May 26, 2023</s><br>
+            <td>Friday</td>
+            <td>May 26, 2023<br>
             </td>
         </tr>   
         <tr>
             <td>SIGIR-23 Registration Deadline</td>
-            <td><s>TBD</s> </td>
-            <td><s>TBD</s></td>
+            <td>TBD</td>
+            <td>TBD</td>
         </tr>             
         <tr>
             <td>Workshop</td>
