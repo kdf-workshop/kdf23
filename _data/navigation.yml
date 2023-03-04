@@ -12,7 +12,8 @@ main:
     url: organizers
   - title: "Program Committee"
     url: program_committee
-
+  - title: "Shared Task"
+    url: shared_task
 
   # - title: "Sitemap"
   #   url: /sitemap/
