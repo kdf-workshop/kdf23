@@ -27,12 +27,17 @@ Registration information to be updated soon.
 <table style="width: 90%">
     <tbody>
         <tr>
-            <td>Paper Submission Deadline</td>
+            <td>Abstract Submission Deadline</td>
             <td>Monday</td>
-            <td>May 8, 2023</td>
+            <td>May 1, 2023 (AOE)</td>
         </tr>
         <tr>
-            <td>Notification of Acceptance</td>
+            <td>Paper Submission Deadline</td>
+            <td>Monday</td>
+            <td>May 8, 2023 (AOE)</td>
+        </tr>
+        <tr>
+            <td>Submission Notification Date</td>
             <td>Friday</td>
             <td>May 26, 2023<br>
             </td>
