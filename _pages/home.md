@@ -1,5 +1,5 @@
 ---
-title: "The SIGIR-23 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+title: "The 4th Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
 hidden: true
 permalink: /
@@ -52,4 +52,4 @@ Registration information to be updated soon.
 </center>
 
 <h2 id='contact'>Contact Information</h2>
-We look forward to seeing you in KDF 2023! For general inquiries about KDF, please write to <kbd>TBD</kbd>.
+We look forward to seeing you in KDF 2023! For general inquiries about KDF, please write to <kbd>kdf.workshop@gmail.com</kbd>.
