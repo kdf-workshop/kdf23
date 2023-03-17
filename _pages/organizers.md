@@ -10,7 +10,7 @@ excerpt: "<br/>KDF Organizing Committee<br/>"
 
 <h3>Sameena Shah</h3>
 <strong>Managing Director, J.P. Morgan AI Research</strong><br>
-Sameena is a managing director at J.P. Morgan AI Research. Previously, Sameena was Managing Director, Head of Data Science at S\&P Global Ratings where she led the firm’s strategy and development for Augmented Intelligence. Prior to that, Sameena worked at Thomson Reuters for seven years. Sameena has a PhD in Distributed Machine Learning and a Masters in Computer Science from IIT Delhi. She is the winner of the top PhD in the country award, Cloudera top AI/ML application award, and several best paper awards and recognitions. She has contributed more than 60 publications and 30 patents. She was the invited speakers at IJCAI 2021 and KDD 2022. She organized several workshops in AAAI, KDD, ICML, etc. 
+Sameena is a managing director at J.P. Morgan AI Research. Previously, Sameena was Managing Director, Head of Data Science at S&P Global Ratings where she led the firm’s strategy and development for Augmented Intelligence. Prior to that, Sameena worked at Thomson Reuters for seven years. Sameena has a PhD in Distributed Machine Learning and a Masters in Computer Science from IIT Delhi. She is the winner of the top PhD in the country award, Cloudera top AI/ML application award, and several best paper awards and recognitions. She has contributed more than 60 publications and 30 patents. She was the invited speakers at IJCAI 2021 and KDD 2022. She organized several workshops in AAAI, KDD, ICML, etc. 
 
 
 <h3>Xiaodan Zhu</h3>
@@ -28,16 +28,16 @@ Manling Li is a final-year Ph.D. student at the Computer Science Department of U
 
 <h3>Armineh Nourbakhsh</h3>
 <strong>Research Director, J.P. Morgan AI Research</strong><br>
-Armineh Nourbakhsh is a Director at J.P. Morgan AI Research, where she leads a team on multimodal document AI. Her career spans a decade of research in NLP in areas such as targeted sentiment analysis, event detection and verification, information extraction, and social data mining. Prior to J.P. Morgan, Armineh was a Director of Data Science at S\&P Global, where she led efforts to transform operational workflows related to the ingestion and processing of financial disclosures. In addition to numerous publications and patents, Armineh’s research has been deployed in award-winning AI-driven technologies such as Reuters Tracer, Westlaw Quick Check, and the SocialZ Verve index. She has previously organized workshops at AAAI and ICAIF, and served on the Program Committee of several conferences. 
+Armineh Nourbakhsh is a Director at J.P. Morgan AI Research, where she leads a team on multimodal document AI. Her career spans a decade of research in NLP in areas such as targeted sentiment analysis, event detection and verification, information extraction, and social data mining. Prior to J.P. Morgan, Armineh was a Director of Data Science at S&P Global, where she led efforts to transform operational workflows related to the ingestion and processing of financial disclosures. In addition to numerous publications and patents, Armineh’s research has been deployed in award-winning AI-driven technologies such as Reuters Tracer, Westlaw Quick Check, and the SocialZ Verve index. She has previously organized workshops at AAAI and ICAIF, and served on the Program Committee of several conferences. 
 
 <h3>Xiaomo Liu</h3>
 <strong>Research Director, J.P. Morgan AI Research</strong><br>
-Dr. Liu is an AI Research Lead at JP Morgan AI Research focusing on machine learning and natural language processing to improve productivity in financial services. Prior to JP Morgan, Xiaomo was a Director of Data Science at S\&P Global and a senior research scientist at Thomson Reuters. His work has been reported by numerous news media and won industry awards. Xiaomo holds a PhD in computer science from Virginia Tech and published more than 30 peer reviewed papers and 3 US patents. Xiaomo has serviced as PCs in various conferences like KDD, IJCAI, CIKM, IWSC etc. He also organized three AAAI workshops.
+Dr. Liu is an AI Research Lead at JP Morgan AI Research focusing on machine learning and natural language processing to improve productivity in financial services. Prior to JP Morgan, Xiaomo was a Director of Data Science at S&P Global and a senior research scientist at Thomson Reuters. His work has been reported by numerous news media and won industry awards. Xiaomo holds a PhD in computer science from Virginia Tech and published more than 30 peer reviewed papers and 3 US patents. Xiaomo has serviced as PCs in various conferences like KDD, IJCAI, CIKM, IWSC etc. He also organized three AAAI workshops.
 
 
 <h3>Zhiqiang Ma</h3>
 <strong>Research Lead, J.P. Morgan AI Research</strong><br>
-Zhiqiang is a research lead at JP Morgan AI Research. His work concentrates on natural language processing such as information extraction from financial documents, news text clustering and classification, event detection, and topic modeling. Previously, he was a Senior Data Scientist at S\&P Global Ratings. He received his Ph.D. in computer science from UNC at Charlotte. He had co-organized three AAAI workshops and served as PC members for multiple conferences and workshops.
+Zhiqiang is a research lead at JP Morgan AI Research. His work concentrates on natural language processing such as information extraction from financial documents, news text clustering and classification, event detection, and topic modeling. Previously, he was a Senior Data Scientist at S&P Global Ratings. He received his Ph.D. in computer science from UNC at Charlotte. He had co-organized three AAAI workshops and served as PC members for multiple conferences and workshops.
 
 
 <h3>Charese Smiley </h3>
