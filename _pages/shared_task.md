@@ -8,4 +8,4 @@ header:
 excerpt: "<br/>Shared Task<br/>"
 ---
 
-Details coming soon.
+<a href="https://refind-re.github.io/">Link to Shared Task</a>
