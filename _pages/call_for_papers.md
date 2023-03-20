@@ -1,5 +1,5 @@
 ---
-title: "The SIGIR-23 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
+title: "The 4th Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
 permalink: /call_for_papers
 header:
