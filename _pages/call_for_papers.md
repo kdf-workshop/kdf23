@@ -34,6 +34,6 @@ We invite submissions of relevant work that be of interest to the workshop. All 
 - full research paper: no longer than 9 pages (including references, proofs, and appendixes).
 - short/poster paper: no longer than 4 pages(including references, proofs, and appendixes).
   
-Submission will be accepted via Microsoft CMT. All accepted papers will be presented in the workshop. At least one author of each accepted submission must attend the workshop to present their work. 
+Submission will be accepted via <a href="https://cmt3.research.microsoft.com/KDF2023/">Microsoft CMT</a>. All accepted papers will be presented in the workshop. At least one author of each accepted submission must attend the workshop to present their work. 
 
 
