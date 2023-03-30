@@ -10,4 +10,4 @@ excerpt: "<br/>Shared Task<br/>"
 
 More info coming soon. 
 
-#<a href="https://refind-re.github.io/">Link to Shared Task</a>
+<!--<a href="https://refind-re.github.io/">Link to Shared Task</a>-->
