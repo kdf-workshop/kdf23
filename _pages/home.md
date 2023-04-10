@@ -9,7 +9,7 @@ header:
 excerpt: "<br/>Taipei, Taiwan / Virtual<br/> July 27, 2023"
 ---
 
-**<span style="color:#1591E8">The shared task on Financial relation extraction is out. Check this <a href="https://refind-re.github.io">link</a> for more details.</span>**
+**<span style="color:#1591E8">The shared task on Financial relation extraction is out. Check this <a href="https://refind-re.github.io">link</a> for more details. Prizes will be awarded to the winers!</span>**
 
 <h2>Introduction</h2>
 
