@@ -10,7 +10,7 @@ excerpt: "<br/>Call for Papers<br/>"
 
 <h2>Call for Papers</h2>
 
-We invite submissions of original contributions on methods, theories, applications, and systems on artificial intelligence, information retrieval, natural language processing and understanding, and deep learning, with a focus on <i> knowledge discovery in the financial services domain <i>. The scope of the workshop includes, but is not limited to, the following areas:
+We invite submissions of original contributions on methods, theories, applications, and systems on artificial intelligence, information retrieval, natural language processing and understanding, and deep learning, with a focus on *knowledge discovery in the financial services domain*. The scope of the workshop includes, but is not limited to, the following areas:
 
 - AI and IR technologies for business document understanding for financial corpora, including searching and question answering systems, understanding and reasoning over non-textual content such as tables and graphs;
 - representation learning, and distributed representation learning and encoding in natural language processing for financial documents;
