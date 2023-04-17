@@ -46,11 +46,11 @@ Registration information to be updated soon.
             <td>May 26, 2023<br>
             </td>
         </tr>   
-        <tr>
+        <!--<tr>
             <td>SIGIR-23 Registration Deadline</td>
+            <td></td>
             <td>TBD</td>
-            <td>TBD</td>
-        </tr>             
+        </tr>-->             
         <tr>
             <td>Workshop</td>
             <td>Thursday</td>
