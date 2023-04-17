@@ -23,7 +23,7 @@ Furthermore, based on the reflections and feedback from our past KDF workshops, 
 
 <h2>Registration</h2>
 
-Registration information to be updated soon.
+<span style="color:#1591E8">Registration for SIGIR is open at this <a href="https://kdf-workshop.github.io/kdf23/ https://web.cvent.com/event/f7020c87-98cf-4dc5-acaf-8f9d49044de7/summary">link</a>.</span>
 
 
 <h2 id="dates">Important Dates (Anywhere on Earth)</h2>
