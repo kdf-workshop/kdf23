@@ -11,6 +11,8 @@ excerpt: "<br/>Taipei, Taiwan / Virtual<br/> July 27, 2023"
 
 **<span style="color:#1591E8">The shared task on <a href="https://refind-re.github.io">Financial relation extraction</a> is out. Prizes will be awarded to the winers!</span>**
 
+<span style="color:#1591E8">Registration for SIGIR is open at this <a href="https://kdf-workshop.github.io/kdf23/ https://web.cvent.com/event/f7020c87-98cf-4dc5-acaf-8f9d49044de7/summary">link</a>.</span>
+
 <h2>Introduction</h2>
 
 Artificial intelligence (AI) and information retrieval (IR) systems and techniques have been widely adopted in financial services to tackle various tasks, such as information retrieval from business documents, retrieval from non-textual content like tables and graphs, recommending financial products and services to customers, providing decision support for investment practices, automating of due diligence protocols,  detecting fraudulent transactions, financial sentiment analysis on social media, and understanding Environmental, Social and Governance (ESG) impact on investment practices.
