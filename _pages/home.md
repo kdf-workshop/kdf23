@@ -38,7 +38,7 @@ Furthermore, based on the reflections and feedback from our past KDF workshops, 
             <td>May 1, 2023 (AOE)</td>
         </tr>
         <tr>
-            <td>Paper Submission Deadline (extended)</td>
+            <td><span style="color:#1591E8">Paper Submission Deadline (extended)</span></td>
             <td><span style="color:#1591E8">Sunday</span></td>
             <td><span style="color:#1591E8">May 21, 2023 (AOE)</span></td>
         </tr>
