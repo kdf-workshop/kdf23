@@ -39,13 +39,13 @@ Furthermore, based on the reflections and feedback from our past KDF workshops, 
         </tr>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>Monday</td>
-            <td>May 8, 2023 (AOE)</td>
+            <td>Sunday</td>
+            <td>May 21, 2023 (AOE)</td>
         </tr>
         <tr>
             <td>Submission Notification Date</td>
             <td>Friday</td>
-            <td>May 26, 2023<br>
+            <td>May 31, 2023<br>
             </td>
         </tr>   
         <!--<tr>
