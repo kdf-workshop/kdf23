@@ -8,10 +8,12 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Taipei, Taiwan / Virtual<br/> July 27, 2023"
 ---
+**<span style="color:#1591E8">The workshop will be a hybrid event – supporting both in-person and virtual participation.</span>**
 
 **<span style="color:#1591E8">The shared task on <a href="https://refind-re.github.io">Financial relation extraction</a> is out. Prizes will be awarded to the winers!</span>**
 
-<span style="color:#1591E8">Registration for SIGIR is open at this <a href="https://kdf-workshop.github.io/kdf23/ https://web.cvent.com/event/f7020c87-98cf-4dc5-acaf-8f9d49044de7/summary">link</a>.</span>
+**<span style="color:#1591E8">Registration for SIGIR is open at this <a href="https://kdf-workshop.github.io/kdf23/ https://web.cvent.com/event/f7020c87-98cf-4dc5-acaf-8f9d49044de7/summary">link</a>.</span>**
+
 
 <h2>Introduction</h2>
 
