@@ -31,7 +31,7 @@ Furthermore, based on the reflections and feedback from our past KDF workshops, 
 <table style="width: 90%">
     <tbody>
         <tr>
-            <td>Abstract Submission Deadline</td>
+            <td>Abstract Submission Deadline (Optional)</td>
             <td>Monday</td>
             <td>May 1, 2023 (AOE)</td>
         </tr>
