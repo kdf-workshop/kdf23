@@ -47,7 +47,19 @@ Furthermore, based on the reflections and feedback from our past KDF workshops, 
             <td>Friday</td>
             <td>May 31, 2023<br>
             </td>
-        </tr>   
+        </tr> 
+        <tr>
+            <td>Shared Task End Date</td>
+            <td>Monday</td>
+            <td>June 12, 2023<br>
+            </td>
+        </tr> 
+        <tr>
+            <td>Shared Task Paper Submission Deadline</td>
+            <td>Monday</td>
+            <td>June 26, 2023<br>
+            </td>
+        </tr> 
         <!--<tr>
             <td>SIGIR-23 Registration Deadline</td>
             <td></td>
