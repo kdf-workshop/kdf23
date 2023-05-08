@@ -30,7 +30,7 @@ Although textual data is prevalent in a large amount of finance-related business
 
 <h2>Submissions</h2>
 
-We invite submissions of relevant work that be of interest to the workshop. All submissions must be original contributions that have not been previously published and that are not currently under review by other conferences or journals. Submissions will be peer reviewed, single-blinded. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity, relevance, and reproducibility. All submissions must be in PDF format and follow the current ACM two-column conference format. We accept two types of submissions:
+We invite submissions of relevant work that be of interest to the workshop. All submissions must be original contributions that have not been previously published and that are not currently under review by other conferences or journals. Submissions will be peer reviewed, single-blinded. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity, relevance, and reproducibility. All submissions must be in PDF format and follow the current <a href="https://www.acm.org/publications/proceedings-template"> ACM two-column conference format</a>. We accept two types of submissions:
 - full research paper: no longer than 9 pages (including references, proofs, and appendixes).
 - short/poster paper: no longer than 4 pages(including references, proofs, and appendixes).
   
