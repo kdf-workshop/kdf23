@@ -1,11 +1,11 @@
 ---
 title: "The 4th Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: single
-permalink: /chung-chui
+permalink: /chung-chi
 classes: wide
 sidebar:
- - title    : "Chung-Chui Chen"
-   image    : /assets/images/chung-chui.png
+ - title    : "Chung-Chi Chen"
+   image    : /assets/images/chung-chi.jpg
    text     : "Researcher, Artificial Intelligence Research Center, AIST, Japan"
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
