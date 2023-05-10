@@ -12,7 +12,7 @@ excerpt: "<br/>Schedule<br/>"
 
 
 <h2>Keynote Speakers </h2>
-[**Chung-Chi Chen**](/kdf23/chung-chi), Researcher, Artificial Intelligence Research Center, AIST, Japan<br>
+[**Chung-Chi Chen**](/kdf23/chung-chi), Researcher, Artificial Intelligence Research Center, AIST, Japan (TITLE : Opinion Ranking in Finance)<br>
 
 <!--
 [**Anju Kambadur**](/kdf2022/anju), Head of AI Engineering, Bloomberg LP<br>
