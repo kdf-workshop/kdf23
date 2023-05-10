@@ -11,7 +11,7 @@ excerpt: "<br/>Schedule<br/>"
 
 
 
-<h2>Keynote Speakers</h2>
+<h2>Keynote Speakers </h2>
 [**Chung-Chi Chen**](/kdf23/chung-chi), Researcher, Artificial Intelligence Research Center, AIST, Japan<br>
 
 <!--
