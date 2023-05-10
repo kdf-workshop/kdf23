@@ -8,11 +8,13 @@ header:
 excerpt: "<br/>Schedule<br/>"
 ---
 
-TBD
+
+
+
+<h2>Keynote Speakers</h2>
+[**Chung-Chi Chen**](/kdf23/chung-chui), Researcher, Artificial Intelligence Research Center, AIST, Japan<br>
 
 <!--
-<h2>Keynote Speakers</h2>
-[**William Wang**](/kdf2022/william), Associate Professor, University of California, Santa Barbara<br>
 [**Anju Kambadur**](/kdf2022/anju), Head of AI Engineering, Bloomberg LP<br>
 [**Xiaodan Zhu**](/kdf2022/xiaodan), Assistant Professor, Queen's University<br>
 
