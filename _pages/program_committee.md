@@ -14,7 +14,7 @@ Chong Wang (Amazon, USA)<br>
 Dongsheng Wang (JPMorgan Chase, UK)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
 Hanoz Bhathena (JPMorgan Chase, USA)<br>
-Luciano Del Corro (Microsoft Research, Argentina)
+Luciano Del Corro (Microsoft Research, Argentina)<br>
 Petr Babkin (JPMorgan Chase, USA)<br>
 Ran Zmigrod (JPMorgan Chase, UK)<br>
 Vineeth Ravi (JPMorgan Chase, USA)<br>
