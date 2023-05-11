@@ -8,24 +8,20 @@ header:
 excerpt: "<br/>Program Committee<br/>"
 ---
 
-TBD
-<!--
-Akshat Gupta (JPMorgan Chase, USA)<br>
-Anh Truong (Capital One, USA)<br>
-Charese Smiley (JPMorgan Chase, USA)<br>
-Chen Li (Verantos Inc, USA)<br>
+
+Anh Truong (Tubi, USA)<br>
+Chong Wang (Amazon, USA)<br>
+Dongsheng Wang (JPMorgan Chase, UK)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
-Hongda Shen (Interos Inc, USA)<br>
-Liao Zhu (Two Sigma, USA)<br>
-Natraj Raman (JPMorgan Chase, UK)<br>
-Niccolo Dalmasso (JPMorgan Chase, USA)<br>
+Hanoz Bhathena (JPMorgan Chase, USA)<br>
+Luciano Del Corro (Microsoft Research, Argentina)
 Petr Babkin (JPMorgan Chase, USA)<br>
-Sumanta Basu (Cornell University, USA)<br>
-Tuka Alhanai (New York University, UAE)<br>
-Yanci Zhang (University of Pennsylvania, USA)<br>
+Ran Zmigrod (JPMorgan Chase, UK)<br>
 Vineeth Ravi (JPMorgan Chase, USA)<br>
+Yujie Lu (UCSB, USA)<br>
 Zehra Sura (Bloomberg, USA)<br>
--->
+
+
 
 <!-- 
 Anthony Liu (Kensho, USA)<br>
