@@ -14,6 +14,7 @@ excerpt: "<br/>Schedule<br/>"
 <h2>Keynote Speakers </h2>
 [**Chung-Chi Chen**](/kdf23/chung-chi), Researcher, Artificial Intelligence Research Center, AIST, Japan (TITLE: Opinion Ranking in Finance)<br>
 [**Shijie Wu**](/kdf23/shijie), AI research scientist, Bloomberg (TITLE: TBD)<br>
+
 <!--
 [**Anju Kambadur**](/kdf2022/anju), Head of AI Engineering, Bloomberg LP<br>
 [**Xiaodan Zhu**](/kdf2022/xiaodan), Assistant Professor, Queen's University<br>
