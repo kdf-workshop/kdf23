@@ -5,8 +5,8 @@ permalink: /shijie
 classes: wide
 sidebar:
  - title    : "Shijie Wu"
-   image    : /assets/images/shijie.jpg
-   text     : "AI research scientist , Bloomberg"
+   image    : /assets/images/Shijie.jpg
+   text     : "AI research scientist, Bloomberg"
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
