@@ -57,7 +57,7 @@ Furthermore, based on the reflections and feedback from our past KDF workshops, 
         <tr>
             <td>Shared Task Paper Submission Deadline</td>
             <td>Monday</td>
-            <td>June 26, 2023<br>
+            <td>June 30, 2023<br>
             </td>
         </tr> 
         <!--<tr>
