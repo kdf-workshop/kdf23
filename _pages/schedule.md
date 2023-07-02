@@ -32,7 +32,7 @@ excerpt: "<br/>Schedule<br/>"
         <th markdown="span">Time</th>
         <th markdown="span">Title</th>
         <th markdown="span">Speakers/Authors</th>
-        <th markdown="span">Link to Video</th>
+        <th markdown="span">Link to Video/PDF</th>
     </tr>
 </thead>
 <tbody>
@@ -50,13 +50,13 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">2:30pm-2:45pm</td>
-        <td markdown="span">[Cross-Lingual NER for Financial Text Data in Low Resource Languages]</td>
+        <td markdown="span">Cross-Lingual NER for Financial Text Data in Low Resource Languages</td>
         <td markdown="span">Sunisth Kumar<br/>(Paper Presentation)</td>
         <td markdown="span"></td>
     </tr>
     <tr>
         <td markdown="span">2:45pm-3:00pm</td>
-        <td markdown="span">[Mutual Fund Recommendation Based on Robust Negative Sampling with Graph-Cut Algorithm]</td>
+        <td markdown="span">Mutual Fund Recommendation Based on Robust Negative Sampling with Graph-Cut Algorithm</td>
         <td markdown="span">Chiao Ting Chen<br/>(Paper Presentation)</td>
         <td markdown="span">&nbsp;</td>
     </tr> 
@@ -68,43 +68,43 @@ excerpt: "<br/>Schedule<br/>"
     </tr>
     <tr>
         <td markdown="span">3:30pm-4:15pm</td>
-        <td markdown="span">[Keynote: Opinion Ranking in Finance]((/kdf23/chung-chi))</td>
-        <td markdown="span">Chung-Chi Chen<br/>(Artificial Intelligence Research Center, AIST, Japan)</td>
+        <td markdown="span">[Keynote: Opinion Ranking in Finance](/kdf23/chung-chi)</td>
+        <td markdown="span">[Chung-Chi Chen](/kdf23/chung-chi)<br/>(Artificial Intelligence Research Center, AIST, Japan)</td>
         <td markdown="span"></td>
     </tr>
     <tr >
         <td markdown="span">4:15pm-4:30pm</td>
-        <td markdown="span">[Economic Causal Chain Presentation System Considering Output Diversity to Search Economic Ripple Effects]</td>
+        <td markdown="span">Economic Causal Chain Presentation System Considering Output Diversity to Search Economic Ripple Effects</td>
         <td markdown="span">Ryotaro Kobayashi<br/>(Paper Presentation)</td>
         <td markdown="span">&nbsp;</td>
     </tr> 
     <tr>
         <td markdown="span">4:30pm-4:40pm</td>
-        <td markdown="span">[Shared Task Introduction]</td>
-        <td markdown="span">[Charese Smiley]</td>
+        <td markdown="span">Shared Task Introduction</td>
+        <td markdown="span">Charese Smiley</td>
         <td markdown="span">&nbsp;</td>
     </tr> 
     <tr>
-        <td markdown="span">4:40pm-5:10pm</td>
+        <td markdown="span">4:40pm-4:50pm</td>
         <td markdown="span">[Shared Task Presentation 1]</td>
         <td markdown="span">TBD<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">4:40pm-5:10pm</td>
+        <td markdown="span">4:50pm-5:00pm</td>
         <td markdown="span">[Shared Task Presentation 2]</td>
         <td markdown="span">TBD<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">4:40pm-5:10pm</td>
+        <td markdown="span">5:00pm-5:10pm</td>
         <td markdown="span">[Shared Task Presentation 3]</td>
         <td markdown="span">TBD<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
         <td markdown="span">5:10pm-5:15pm</td>
-        <td markdown="span">[Closing Remarks]</td>
+        <td markdown="span">Closing Remarks</td>
         <td markdown="span">Charese Smiley<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
