@@ -15,9 +15,6 @@ excerpt: "<br/>Schedule<br/>"
 [**Chung-Chi Chen**](/kdf23/chung-chi), Researcher, Artificial Intelligence Research Center, AIST, Japan (TITLE: Opinion Ranking in Finance)<br>
 [**Shijie Wu**](/kdf23/shijie), AI research scientist, Bloomberg (TITLE: TBD)<br>
 
-<!--
-[**Anju Kambadur**](/kdf2022/anju), Head of AI Engineering, Bloomberg LP<br>
-[**Xiaodan Zhu**](/kdf2022/xiaodan), Assistant Professor, Queen's University<br>
 
 
 <h2>Presentation Schedule</h2>
@@ -40,85 +37,77 @@ excerpt: "<br/>Schedule<br/>"
 </thead>
 <tbody>
     <tr>
-        <td markdown="span">8:50am-9:00am</td>
+        <td markdown="span">1:30pm-1:40pm</td>
         <td markdown="span">Opening remarks</td>
-        <td markdown="span">Sameena Shah</td>
+        <td markdown="span">Charese Smiley</td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">9:00am-9:35am</td>
-        <td markdown="span">[Keynote: FinQA: Understanding Financial Statements with Question Answering](/kdf2022/william#keynote)</td>
-        <td markdown="span">[William Wang](/kdf2022/william)<br/>(UCSB)</td>
+        <td markdown="span">1:40pm-2:30pm</td>
+        <td markdown="span">[Keynote: TBD](/kdf23/shijie)</td>
+        <td markdown="span">[Shijie Wu](/kdf23/shijie)<br/>(Bloomberg)</td>
         <td markdown="span"></td>
     </tr> 
     <tr>
-        <td markdown="span">9:35am-9:45am</td>
-        <td markdown="span">[Multi-modal Attention Network for Stock Movements Prediction](assets/pdfs/KDF_22_paper_3.pdf)</td>
-        <td markdown="span">Shuai He<br/>(The University of Electronic Science and Technology of China)</td>
-        <td markdown="span"></td>
-    </tr>
-    <tr>
-        <td markdown="span">9:45am-9:55am</td>
-        <td markdown="span">[GUID: A Knowledge Graph and Attention based User Interest Diffusion Process for Recommendation](assets/pdfs/KDF_22_paper_7.pdf)</td>
-        <td markdown="span">Ding Tu<br/>(China Foriegn Exchange Trading System Information Technology)</td>
-        <td markdown="span">&nbsp;</td>
-    </tr> 
-    <tr>
-        <td markdown="span">9:55am-10:05am</td>
-        <td markdown="span">[Learning to Select the Next Reasonable Mention for Entity Linking](assets/pdfs/KDF_22_paper_8.pdf)</td>
-        <td markdown="span">Jian Sun<br/>(University of Chinese Academy of Sciences)</td>
+        <td markdown="span">2:30pm-2:45pm</td>
+        <td markdown="span">[Cross-Lingual NER for Financial Text Data in Low Resource Languages]</td>
+        <td markdown="span">Sunisth Kumar<br/>(Paper Presentation)</td>
         <td markdown="span"></td>
     </tr>
-    <tr >
-        <td markdown="span">10:05am-10:15am</td>
-        <td markdown="span">[One Shock, Many Disruptions: Firm Experience After India’s Demonetization](assets/pdfs/KDF_22_paper_5.pdf)</td>
-        <td markdown="span">Alexandra Schofield<br/>(Harvey Mudd College)</td>
-        <td markdown="span">&nbsp;</td>
-    </tr> 
     <tr>
-        <td markdown="span">10:15am-10:50am</td>
-        <td markdown="span">[Keynote: Search and Discovery in News and Research](/kdf2022/anju#keynote)</td>
-        <td markdown="span">[Anju Kambadur](/kdf2022/anju)<br/>(Bloomberg LP)</td>
+        <td markdown="span">2:45pm-3:00pm</td>
+        <td markdown="span">[Mutual Fund Recommendation Based on Robust Negative Sampling with Graph-Cut Algorithm]</td>
+        <td markdown="span">Chiao Ting Chen<br/>(Paper Presentation)</td>
         <td markdown="span">&nbsp;</td>
     </tr> 
     <tr bgcolor="#f7f1df">
-        <td markdown="span">10:50am-11:10am</td>
-        <td markdown="span">break</td>
+        <td markdown="span">3:00pm-3:30pm</td>
+        <td markdown="span">Coffee Break</td>
         <td markdown="span"></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">11:10am-11:20am</td>
-        <td markdown="span">[A Closer Look to Your Business Network: Multitask Relation Extraction from Economic and Financial French Content](assets/pdfs/KDF_22_paper_10.pdf)</td>
-        <td markdown="span">Hadjer Khaldi<br/>(IRIT - Toulouse)</td>
+        <td markdown="span">3:30pm-4:15pm</td>
+        <td markdown="span">[Keynote: Opinion Ranking in Finance]((/kdf23/chung-chi))</td>
+        <td markdown="span">Chung-Chi Chen<br/>(Artificial Intelligence Research Center, AIST, Japan)</td>
+        <td markdown="span"></td>
+    </tr>
+    <tr >
+        <td markdown="span">4:15pm-4:30pm</td>
+        <td markdown="span">[Economic Causal Chain Presentation System Considering Output Diversity to Search Economic Ripple Effects]</td>
+        <td markdown="span">Ryotaro Kobayashi<br/>(Paper Presentation)</td>
+        <td markdown="span">&nbsp;</td>
+    </tr> 
+    <tr>
+        <td markdown="span">4:30pm-4:40pm</td>
+        <td markdown="span">[Shared Task Introduction]</td>
+        <td markdown="span">[Charese Smiley]</td>
+        <td markdown="span">&nbsp;</td>
+    </tr> 
+    <tr>
+        <td markdown="span">4:40pm-5:10pm</td>
+        <td markdown="span">[Shared Task Presentation 1]</td>
+        <td markdown="span">TBD<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">11:20am-11:30am</td>
-        <td markdown="span">[Dichotomic Pattern Mining with Applications to Intent Prediction from Semi-Structured Clickstream Datasets](assets/pdfs/KDF_22_paper_9.pdf)</td>
-        <td markdown="span">Xin Wang<br/>(Fidelity Investments)</td>
+        <td markdown="span">4:40pm-5:10pm</td>
+        <td markdown="span">[Shared Task Presentation 2]</td>
+        <td markdown="span">TBD<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">11:30am-11:40am</td>
-        <td markdown="span">[Semi-Structured Query Grounding for Document-Oriented Databases with Deep Retrieval and Its Application to Receipt and POI Matching](assets/pdfs/KDF_22_paper_6.pdf)</td>
-        <td markdown="span">Geewook Kim<br/>(Naver Corp)</td>
-        <td markdown="span"></td>
+        <td markdown="span">4:40pm-5:10pm</td>
+        <td markdown="span">[Shared Task Presentation 3]</td>
+        <td markdown="span">TBD<br/></td>
+        <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">11:40am-12:15pm</td>
-                <td markdown="span">[Keynote: Towards Robust Fact Verification Based on Text and Tables](/kdf2022/xiaodan#keynote)</td>
-        <td markdown="span">[Xiaodan Zhu](/kdf2022/xiaodan)<br/>(Queen's University)</td>
-        <td markdown="span"></td>
-    </tr>  
-    <tr>
-        <td markdown="span">12:15pm-12:20pm</td>
-        <td markdown="span">closing remarks</td>
-        <td markdown="span">Xiaomo Liu<br/>(JPMorgan AI Research)</td>
+        <td markdown="span">5:10pm-5:15pm</td>
+        <td markdown="span">[Closing Remarks]</td>
+        <td markdown="span">Charese Smiley<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
 </tbody>
 </table>
 </center>
-
--->
