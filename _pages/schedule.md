@@ -18,7 +18,8 @@ excerpt: "<br/>Schedule<br/>"
 
 
 <h2>Presentation Schedule</h2>
-*All timestamps reflect Pacific Time Zone (PST).*
+*Room 201B*
+*All timestamps reflect the local time zone (CST).*
 <center>
 <table>
 	<colgroup>
