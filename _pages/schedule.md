@@ -18,7 +18,7 @@ excerpt: "<br/>Schedule<br/>"
 
 
 <h2>Presentation Schedule</h2>
-*Room 201B*
+*Room 201B*<br>
 *All timestamps reflect the local time zone (CST).*
 <center>
 <table>
