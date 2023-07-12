@@ -86,25 +86,31 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">&nbsp;</td>
     </tr> 
     <tr>
-        <td markdown="span">4:40pm-4:50pm</td>
+        <td markdown="span">4:40pm-4:45pm</td>
         <td markdown="span">[Shared Task Presentation 1]</td>
         <td markdown="span">TBD<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">4:50pm-5:00pm</td>
+        <td markdown="span">4:45pm-4:50pm</td>
         <td markdown="span">[Shared Task Presentation 2]</td>
         <td markdown="span">TBD<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">5:00pm-5:10pm</td>
+        <td markdown="span">4:50pm-4:55pm</td>
         <td markdown="span">[Shared Task Presentation 3]</td>
         <td markdown="span">TBD<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
-        <td markdown="span">5:10pm-5:15pm</td>
+        <td markdown="span">4:55pm-5:00pm</td>
+        <td markdown="span">[Shared Task Presentation 4]</td>
+        <td markdown="span">TBD<br/></td>
+        <td markdown="span">&nbsp;</td>
+    </tr>
+    <tr>
+        <td markdown="span">5:00pm-5:05pm</td>
         <td markdown="span">Closing Remarks</td>
         <td markdown="span">Charese Smiley<br/></td>
         <td markdown="span">&nbsp;</td>
