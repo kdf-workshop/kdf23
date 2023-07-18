@@ -13,7 +13,7 @@ excerpt: "<br/>Schedule<br/>"
 
 <h2>Keynote Speakers </h2>
 [**Chung-Chi Chen**](/kdf23/chung-chi), Researcher, Artificial Intelligence Research Center, AIST, Japan (TITLE: Opinion Ranking in Finance)<br>
-[**Shijie Wu**](/kdf23/shijie), AI research scientist, Bloomberg (TITLE: TBD)<br>
+[**Shijie Wu**](/kdf23/shijie), AI research scientist, Bloomberg (TITLE: BloombergGPT: A Large Language Model for Finance)<br>
 
 
 
@@ -45,7 +45,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>
     <tr>
         <td markdown="span">1:40pm-2:30pm</td>
-        <td markdown="span">[Keynote: TBD](/kdf23/shijie)</td>
+        <td markdown="span">[Keynote: BloombergGPT: A Large Language Model for Finance](/kdf23/shijie)</td>
         <td markdown="span">[Shijie Wu](/kdf23/shijie)<br/>(Bloomberg)</td>
         <td markdown="span"></td>
     </tr> 
