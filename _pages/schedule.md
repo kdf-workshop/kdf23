@@ -87,30 +87,36 @@ excerpt: "<br/>Schedule<br/>"
     </tr> 
     <tr>
         <td markdown="span">4:40pm-4:45pm</td>
-        <td markdown="span">[Shared Task Presentation 1]</td>
-        <td markdown="span">TBD<br/></td>
+        <td markdown="span">Ahead of the Text: Leveraging Entity Preposition for Financial Relation Extraction</td>
+        <td markdown="span">Stefan Pasch<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
         <td markdown="span">4:45pm-4:50pm</td>
-        <td markdown="span">[Shared Task Presentation 2]</td>
-        <td markdown="span">TBD<br/></td>
+        <td markdown="span">GPT-FinRE: In-context Learning for Financial Relation Extraction using Large Language Models</td>
+        <td markdown="span">Pawan Kumar Rajpoot<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
         <td markdown="span">4:50pm-4:55pm</td>
-        <td markdown="span">[Shared Task Presentation 3]</td>
-        <td markdown="span">TBD<br/></td>
+        <td markdown="span">A Simple Approach to Financial Relation Classification with Pre-trained Language Models</td>
+        <td markdown="span">Le Qiu<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
         <td markdown="span">4:55pm-5:00pm</td>
-        <td markdown="span">[Shared Task Presentation 4]</td>
-        <td markdown="span">TBD<br/></td>
+        <td markdown="span">iMETRE: Incorporating Markers of Entity Types for Relation Extraction</td>
+        <td markdown="span">Harsha N Vardhan<br/></td>
         <td markdown="span">&nbsp;</td>
     </tr>
     <tr>
         <td markdown="span">5:00pm-5:05pm</td>
+        <td markdown="span">FinTree: Financial Dataset Pretrain Transformer Encoder for Relation Extraction</td>
+        <td markdown="span">Hyunjong Ok<br/></td>
+        <td markdown="span">&nbsp;</td>
+    </tr>
+    <tr>
+        <td markdown="span">5:05pm-5:10pm</td>
         <td markdown="span">Closing Remarks</td>
         <td markdown="span">Charese Smiley<br/></td>
         <td markdown="span">&nbsp;</td>
