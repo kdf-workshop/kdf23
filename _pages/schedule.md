@@ -86,6 +86,12 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">&nbsp;</td>
     </tr> 
     <tr>
+        <td markdown="span">4:50pm-4:55pm</td>
+        <td markdown="span">A Simple Approach to Financial Relation Classification with Pre-trained Language Models</td>
+        <td markdown="span">Le Qiu<br/></td>
+        <td markdown="span">[PDF](/kdf23/assets/images/kdf_s3.pdf)</td>
+    </tr>
+    <tr>
         <td markdown="span">4:40pm-4:45pm</td>
         <td markdown="span">Ahead of the Text: Leveraging Entity Preposition for Financial Relation Extraction</td>
         <td markdown="span">Stefan Pasch<br/></td>
@@ -96,12 +102,6 @@ excerpt: "<br/>Schedule<br/>"
         <td markdown="span">GPT-FinRE: In-context Learning for Financial Relation Extraction using Large Language Models</td>
         <td markdown="span">Pawan Kumar Rajpoot<br/></td>
         <td markdown="span">[PDF](/kdf23/assets/images/kdf_s2.pdf)</td>
-    </tr>
-    <tr>
-        <td markdown="span">4:50pm-4:55pm</td>
-        <td markdown="span">A Simple Approach to Financial Relation Classification with Pre-trained Language Models</td>
-        <td markdown="span">Le Qiu<br/></td>
-        <td markdown="span">[PDF](/kdf23/assets/images/kdf_s3.pdf)</td>
     </tr>
     <tr>
         <td markdown="span">4:55pm-5:00pm</td>
