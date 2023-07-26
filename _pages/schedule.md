@@ -88,7 +88,7 @@ excerpt: "<br/>Schedule<br/>"
     <tr>
         <td markdown="span">4:50pm-4:55pm</td>
         <td markdown="span">A Simple Approach to Financial Relation Classification with Pre-trained Language Models</td>
-        <td markdown="span">Le Qiu<br/></td>
+        <td markdown="span">Emmanuele Chersoni<br/></td>
         <td markdown="span">[PDF](/kdf23/assets/images/kdf_s3.pdf)</td>
     </tr>
     <tr>
