@@ -8,12 +8,6 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Taipei, Taiwan / Virtual<br/> July 27, 2023"
 ---
-**<span style="color:#1591E8">The workshop will be a hybrid event – supporting both in-person and virtual participation.</span>**
-
-**<span style="color:#1591E8">The shared task on <a href="https://refind-re.github.io">Financial relation extraction</a> is out. Prizes will be awarded to the winers!</span>**
-
-**<span style="color:#1591E8">Registration for SIGIR is open at [this link](https://sigir.org/sigir2023/attend/registration/).</span>**
-
 
 <h2>Introduction</h2>
 
@@ -24,8 +18,7 @@ Knowledge from IR systems can help augment human intelligence. However, discover
 Furthermore, based on the reflections and feedback from our past KDF workshops, the 2023 workshop is particularly interested in multi-modal understanding of financial documents, retrieving and reasoning over tabular data within financial documents, and financial domain-specific representation learning. The workshop will be composed of three components: invited talks, paper presentations, along with a shared task competition. We cordially welcome researchers, practitioners, and students from academic and industrial communities who are interested in the topics to participate and/or submit their original work. The topics and submission requirements can be found in [call for papers](/kdf23/call_for_papers).
 
 <h2>Registration</h2>
-
-<span>Registration for SIGIR is open at [this link](https://sigir.org/sigir2023/attend/registration/).</span>
+KDF '23 has been closed. Please stay tuned for KDF '24. 
 
 
 <h2 id="dates">Important Dates (Anywhere on Earth)</h2>
