@@ -8,7 +8,7 @@ header:
 excerpt: "<br/>Shared Task<br/>"
 ---
 
-**The shared task has been closed. Congratulations to the winning teams and thanks to every contestant. Details **
+**The shared task has been closed. Congratulations to the winning teams and thanks to every contestant. The full rank can be found [here]("https://refind-re.github.io/")**
 <center>
 <table>
 	<colgroup>
