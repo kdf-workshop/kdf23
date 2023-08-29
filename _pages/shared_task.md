@@ -41,13 +41,13 @@ excerpt: "<br/>Shared Task<br/>"
 	        <td markdown="span">Kyung Hee University</td>
 	        
 	    </tr> 
-<!--	    <tr>
+	    <tr>
 	        <td markdown="span">3</td>
 	        <td markdown="span">pawan2411</td>
 	        <td markdown="span">Pawan Rajpoot<br/>Ankur Parikh</td>
 	        <td markdown="span">MUST Research<br/>UtilizeAI Research</td>
 	    </tr>
-	    <tr>
+<!--	    <tr>
 		<td markdown="span">4</td>
 		<td markdown="span">harsha20032020</td>
 		<td markdown="span">N. Harsha Vardan<br/>Manav Chaudhary</td>
