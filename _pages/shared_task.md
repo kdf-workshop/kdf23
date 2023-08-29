@@ -17,37 +17,36 @@ excerpt: "<br/>Shared Task<br/>"
     	<col width="30%">
         <col width="30%">
 	</colgroup>
-<thead>
+	<thead>
 	<tr bgcolor="#f7f1df">
         <th markdown="span">Rank</th>
         <th markdown="span">Team Name</th>
         <th markdown="span">Team Members</th>
         <th markdown="span">Affiliation(s)</th>
-    
-    </tr>
-</thead>
+    	</tr>
+	</thead>
 <tbody>
-    <tr>
-        <td markdown="span">1</td>
-        <td markdown="span">Pasch-Petridis</td>
-        <td markdown="span">Stefan Pasch <br/>
-                            Dimitrios Petridis</td>
-        <th markdown="span">Independent Researchers</th>
-        
-    </tr>
-    <tr>
-        <td markdown="span">2</td>
-        <td markdown="span">HJ</td>
-        <td markdown="span">Hyunjong Ok</td>
-        <td markdown="span">Kyung Hee University</td>
-        
-    </tr> 
-    <tr>
-        <td markdown="span">3</td>
-        <td markdown="span">pawan2411</td>
-        <td markdown="span">Pawan Rajpoot<br/>Ankur Parikh</td>
-        <td markdown="span">MUST Research<br/>UtilizeAI Research</td>
-    </tr>
+	    <tr>
+	        <td markdown="span">1</td>
+	        <td markdown="span">Pasch-Petridis</td>
+	        <td markdown="span">Stefan Pasch <br/>
+	                            Dimitrios Petridis</td>
+	        <td markdown="span">Independent Researchers</td>
+	        
+	    </tr>
+	    <tr>
+	        <td markdown="span">2</td>
+	        <td markdown="span">HJ</td>
+	        <td markdown="span">Hyunjong Ok</td>
+	        <td markdown="span">Kyung Hee University</td>
+	        
+	    </tr> 
+	    <tr>
+	        <td markdown="span">3</td>
+	        <td markdown="span">pawan2411</td>
+	        <td markdown="span">Pawan Rajpoot<br/>Ankur Parikh</td>
+	        <td markdown="span">MUST Research<br/>UtilizeAI Research</td>
+	    </tr>
 </tbody>
 </table>
 </center>
