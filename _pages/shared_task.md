@@ -7,8 +7,8 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Shared Task<br/>"
 ---
-<a href="https://refind-re.github.io/">Link to Shared Task</a><br/>
-**The shared task has been closed. Congratulations to the winning teams:**
+
+**The shared task has been closed. Congratulations to the winning teams and thanks to every contestant. Details **
 <center>
 <table>
 	<colgroup>
@@ -47,6 +47,18 @@ excerpt: "<br/>Shared Task<br/>"
 	        <td markdown="span">Pawan Rajpoot<br/>Ankur Parikh</td>
 	        <td markdown="span">MUST Research<br/>UtilizeAI Research</td>
 	    </tr>
+#	    <tr>
+#		<td markdown="span">4</td>
+#		<td markdown="span">harsha20032020</td>
+#		<td markdown="span">N. Harsha Vardan<br/>Manav Chaudhary</td>
+#		<td markdown="span">International Institute of Information Technology</td>
+#	    </tr>
+#    	    <tr>
+#	        <td markdown="span">5</td>
+#	 	<td markdown="span">PolyU_CBS</td>
+#	        <td markdown="span">Le Qui<br/>Bo Peng<br/>Yu-Yin Hsu<br/>Emmanuele Chersoni </td>
+#	        <td markdown="span">Hong Kong Polytechnic University</td>
+#	    </tr>     		
 </tbody>
 </table>
 </center>
