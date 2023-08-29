@@ -7,7 +7,7 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Shared Task<br/>"
 ---
-<a href="https://refind-re.github.io/">Link to Shared Task</a>
+<a href="https://refind-re.github.io/">Link to Shared Task</a><br/>
 **The shared task has been closed. Congratulations to our winning teams:**
 <center>
 <table>
