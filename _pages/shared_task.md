@@ -8,7 +8,7 @@ header:
 excerpt: "<br/>Shared Task<br/>"
 ---
 <a href="https://refind-re.github.io/">Link to Shared Task</a><br/>
-**The shared task has been closed. Congratulations to our winning teams:**
+**The shared task has been closed. Congratulations to the winning teams:**
 <center>
 <table>
 	<colgroup>
